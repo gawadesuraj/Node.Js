@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_",
+  "version": "1.0.0",
+  "main": "workingwithnpn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"suraj gawade\"",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

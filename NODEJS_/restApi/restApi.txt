@@ -1,0 +1,3 @@
+Rest full API 
+ >> rules
+    ->  
